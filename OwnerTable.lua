@@ -1,8 +1,8 @@
 return {
-    ["AspectedRatio"] = true;
-    ["UrSoBadOutOfMyGame"] = true;
-    ["AntiTrxHard"] = true;
-    ["testttttttttt7"] = true;
-    ["rotikaru"] = true;
-    ["vhqals"] = true;
+    "AspectedRatio",
+    "UrSoBadOutOfMyGame",
+    "AntiTrxHard",
+    "testttttttttt7",
+    "rotikaru",
+    "vhqals",
 }
